@@ -1,8 +1,7 @@
-# Py-Games
+## Py-Games
 
-Sure, here is a good readme for your GitHub repository where you publish all your mini games created with Python:
 
-Mini Games in Python
+# Mini Games in Python
 This repository contains a collection of mini games created with Python. The games are all written in a simple and easy-to-understand way, making them a great resource for learning how to program games in Python.
 
 Games
